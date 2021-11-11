@@ -4,3 +4,5 @@
 - Dockerize the project
 - Create deploy job in jenkins
 - Create start/stop jobs in jenkins
+- Add selenium tests to project
+- Add cucumber tests to project
